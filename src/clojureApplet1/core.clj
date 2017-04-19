@@ -3,6 +3,7 @@
 ;; added to git as an example of java Interop - 
 ;; not finished or even working but a reminder to learn 
 ;; note -paint   , :extends   #^JApplet 
+;; https://en.wikibooks.org/wiki/Clojure_Programming/Examples/Creating_an_Applet  ;; 19.04.2017
 
 (ns applet
   (:import (java.awt Graphics Color Font RenderingHints)
